@@ -1,4 +1,4 @@
-# Stock Portfolio Tracker (CodeAlpha Task 2)
+# Stock Portfolio Tracker
 
 A simple CLI stock portfolio tracker that calculates total investment value using **hardcoded stock prices**.
 
@@ -18,7 +18,7 @@ A simple CLI stock portfolio tracker that calculates total investment value usin
 From the project folder:
 
 ```bash
-python3 main.py
+python3 StockPortfolioTracker.py
 ```
 
 ## How It Works
@@ -33,7 +33,7 @@ python3 main.py
 
 ## Available Stocks (Hardcoded)
 
-Defined in `main.py` as `STOCK_PRICES`.
+Defined in `StockPortfolioTracker.py` as `STOCK_PRICES`.
 
 Example:
 
